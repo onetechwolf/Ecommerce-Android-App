@@ -21,6 +21,9 @@ import retrofit.Callback;
 import retrofit.RetrofitError;
 import retrofit.client.Response;
 
+/**
+* onetechwolf
+*/
 public class AccountVerification extends AppCompatActivity {
 
     @BindView(R.id.resendEmail)
